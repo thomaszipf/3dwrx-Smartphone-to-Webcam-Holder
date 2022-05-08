@@ -3,7 +3,8 @@
 Link to Thingiverse:
 https://www.thingiverse.com/thing:4544649
 
-Why this design?
+##Why this design?
+
 Since the Corona Virus forced most of us (where possible) to a more home-centric work environment, the demand of Webcams for online meetings has been rising. Also, business cultural changes have been going on and encouraging people to activate Webcams as possible. Personally, I stuck between two sub optimal conditions. I have an Webcam on my Notebook but … since I’m used to use several screens, I figured out that I more often then not do not even near the webcam. Other then that, the in-build webcam was not any kind of a criteria while making a choice for the notebook. So I while asking myself if an mobile cam wouldn’t be good enough, it turned out that this cam actually is maybe far better then any web cam I can buy for the cheap. Following Linus Tech Tips Youtube channel, I exactly found the referencing article and – now I just needed a mount for my screen to mount the phone securely. – Here it is, holding my Galaxy S10.
 
 <p align="center">
